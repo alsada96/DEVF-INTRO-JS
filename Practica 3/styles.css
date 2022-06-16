@@ -1,0 +1,29 @@
+.div-margin{
+    margin: 10px!important;
+ }
+ 
+ .row-content{
+     height: 300px!important;
+     color: #fff;
+ }
+ 
+ .col-6{
+     width: 45%!important;
+ }
+ 
+ i{
+     font-size: 50px;
+ }
+ 
+ .i-big{
+     font-size: 140px;
+ }
+ 
+ p{
+     font-size: 1.5rem
+ }
+ @media (max-width: 768px)  {
+    .i-big{
+        font-size: 70px;
+    }
+ }
